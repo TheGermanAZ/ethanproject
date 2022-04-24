@@ -17,5 +17,5 @@ services:
     ports:
       - 8080:8080
     environment:
-      PGADMIN_DEFAULT_EMAIL: germanalvarez14@gmail.com
+      PGADMIN_DEFAULT_EMAIL: example@gmail.com
       PGADMIN_DEFAULT_PASSWORD: password
